@@ -1,1 +1,34 @@
-
+{
+  "city": "Quran Radio",
+  "stations": [
+ {
+      "name": "Shahat-Ar-Rahman",
+      "url": "http://www.codeform3d.com/Ar-RahmanShahat.wav"
+    },
+    
+    {
+      "name": "AlHaarith-Yasin",
+      "url": "http://www.codeform3d.com/Yasin AlHaarith.wav"
+    },
+    {
+      "name": "AlHaarith-Fath",
+      "url": "http://www.codeform3d.com/Fath AlHaarith.wav"
+    },
+    {
+      "name": "IbiIdris-Taha",
+      "url": "http://www.codeform3d.com/Taha ibiidris.wav"
+    },
+    {
+      "name": "IbiIdris-Isra",
+      "url": "http://www.codeform3d.com/Isra ibiidris.wav"
+    },
+    {
+      "name": "new",
+      "url": "http://www.codeform3d.com/Q005.wav"
+    },
+       {
+      "name": "new 2",
+      "url": "http://www.codeform3d.com/Q060.wav"
+    }
+     ]
+}
