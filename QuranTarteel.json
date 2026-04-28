@@ -2,33 +2,26 @@
   "city": "Quran Radio",
   "stations": [
  {
-      "name": "Shahat-Ar-Rahman",
-      "url": "http://www.codeform3d.com/Qurantarteel/Ar-RahmanShahat.wav"
+      "name": "Abdul Baset -Waqia",
+      "url": "http://www.codeform3d.com/Qurantarteel/Abdul Baset Waqia.wav"
     },
     
     {
-      "name": "AlHaarith-Yasin",
-      "url": "http://www.codeform3d.com/Yasin AlHaarith.wav"
+      "name": "Abdul Baset - Duha",
+      "url": "http://www.codeform3d.com/Qurantarteel/Abdul Basit Duha.wav"
     },
     {
-      "name": "AlHaarith-Fath",
-      "url": "http://www.codeform3d.com/Fath AlHaarith.wav"
+      "name": "Hindawi Maryam",
+      "url": "http://www.codeform3d.com/Qurantarteel/Hindawi Maryam.wav"
     },
     {
-      "name": "IbiIdris-Taha",
-      "url": "http://www.codeform3d.com/Taha ibiidris.wav"
+      "name": "Qari Ayub Asif -1",
+      "url": "http://www.codeform3d.com/Qurantarteel/Qari Ayub Asif -1.wav"
     },
     {
-      "name": "IbiIdris-Isra",
-      "url": "http://www.codeform3d.com/Isra ibiidris.wav"
-    },
-    {
-      "name": "new",
-      "url": "http://www.codeform3d.com/Q005.wav"
-    },
-       {
-      "name": "new 2",
-      "url": "http://www.codeform3d.com/Q060.wav"
+      "name": "Shahat Arrahman",
+      "url": "http://www.codeform3d.com/Qurantarteel/Shahat Arrahman.wav"
     }
+    
      ]
 }
