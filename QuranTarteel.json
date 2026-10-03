@@ -1,27 +1,23 @@
 {
-  "city": "Quran Radio",
+  "city": "QuranTarteel",
   "stations": [
- {
-      "name": "Abdul Baset -Waqia",
-      "url": "http://www.codeform3d.com/Qurantarteel/Abdul Baset Waqia.wav"
-    },
-    
-    {
-      "name": "Abdul Baset - Duha",
-      "url": "http://www.codeform3d.com/Qurantarteel/Abdul Basit Duha.wav"
+          
+                {
+      "name": "Qari Abdul Baset Duha",
+      "url": "http://192.168.68.120:8000/qurantarteel/QariAbdulBasetDuha.mp3"
     },
     {
-      "name": "Hindawi Maryam",
-      "url": "http://www.codeform3d.com/Qurantarteel/Hindawi Maryam.wav"
+      "name": "Qari Abdul Baset Waqia",
+      "url": "http://192.168.68.120:8000/qurantarteel/QariAbdulBasetWaqia.mp3"
     },
-    {
-      "name": "Qari Ayub Asif -1",
-      "url": "http://www.codeform3d.com/Qurantarteel/Qari Ayub Asif -1.wav"
+       
+                {
+      "name": "Qari Ayub Asif",
+      "url": "http://192.168.68.120:8000/qurantarteel/QariAyubAsif.mp3"
     },
-    {
-      "name": "Shahat Arrahman",
-      "url": "http://www.codeform3d.com/Qurantarteel/Shahat Arrahman.wav"
-    }
-    
-     ]
+        {
+      "name": "Qari Hindawi Maryam",
+      "url": "http://192.168.68.120:8000/qurantarteel/QariHindawiMaryam.mp3"
+    }    
+            ]
 }
