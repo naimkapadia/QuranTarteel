@@ -4,20 +4,20 @@
           
                 {
       "name": "Qari Abdul Baset Duha",
-      "url": "http://192.168.68.120:8000/qurantarteel/QariAbdulBasetDuha.mp3"
+      "url": "http://82.14.254.238:8000/qurantarteel/QariAbdulBasetDuha.mp3"
     },
     {
       "name": "Qari Abdul Baset Waqia",
-      "url": "http://192.168.68.120:8000/qurantarteel/QariAbdulBasetWaqia.mp3"
+      "url": "http://82.14.254.238:8000/qurantarteel/QariAbdulBasetWaqia.mp3"
     },
        
                 {
       "name": "Qari Ayub Asif",
-      "url": "http://192.168.68.120:8000/qurantarteel/QariAyubAsif.mp3"
+      "url": "http://82.14.254.238:8000/qurantarteel/QariAyubAsif.mp3"
     },
         {
       "name": "Qari Hindawi Maryam",
-      "url": "http://192.168.68.120:8000/qurantarteel/QariHindawiMaryam.mp3"
+      "url": "http://82.14.254.238:8000/qurantarteel/QariHindawiMaryam.mp3"
     }    
             ]
 }
